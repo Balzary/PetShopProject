@@ -1,13 +1,19 @@
-# projeto Petshop
-Projeto desenvolvido em node.js com express
+# Petshop Project
+Project developed in node.js with express
 
-### pré requisitos globais:
+### Technologies
+<p display="inline-block">
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="ts-logo"/>
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="express-logo"/>
+</p>
+
+### Global pre-requisites:
 'npm i -g nodemom typescript ts-node'
 
-### instalação 
+### Installation 
 'npm install'
 
-### para executar o projeto
+### To run this project
 'npm run start-dev' 
 
 ![](/public/images/print.png)
